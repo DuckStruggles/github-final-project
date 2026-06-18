@@ -1,2 +1,11 @@
 # IBM-assignment
-Assignment for the Coursera IBM - Getting started with git and github course
+
+This repository contains the final project files for the IBM Getting Started with Git and GitHub course.
+
+## Files Included
+
+- README.md
+- LICENSE
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- simple-interest.sh
