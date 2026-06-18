@@ -1,11 +1,10 @@
-# IBM-assignment
+# This is the README.md file for the **github-final-project**
 
-This repository contains the final project files for the IBM Getting Started with Git and GitHub course.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
-## Files Included
-
-- README.md
-- LICENSE
-- CODE_OF_CONDUCT.md
-- CONTRIBUTING.md
-- simple-interest.sh
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r/100
